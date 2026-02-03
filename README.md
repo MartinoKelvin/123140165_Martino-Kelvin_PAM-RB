@@ -1,8 +1,8 @@
 ### Nama   : Martino Kelvin
 ### NIM    : 123140165
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d65cc43c-5309-4e39-a2ff-ded80533ab00" />
+<img width="720" height="700" alt="image" src="https://github.com/user-attachments/assets/d65cc43c-5309-4e39-a2ff-ded80533ab00" />
 
-<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/7927a674-9e38-4ff8-98f6-86ae2b454384" />
+<img width="575" height="700" alt="image" src="https://github.com/user-attachments/assets/7927a674-9e38-4ff8-98f6-86ae2b454384" />
 
 
 <<<<<<< HEAD
